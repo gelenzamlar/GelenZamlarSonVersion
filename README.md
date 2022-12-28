@@ -1,3 +1,17 @@
+MUHARREM YILMAZ 205542001 (SCRUM MASTER && BACKEND DEV.)
+EMRE ÖZKAPLAN 205541039 (FRONTEND DEV)
+METİN ABA 205541047 (DATABASE DEV && BACKEND DEV)
+MUSTAFA KÖSEOĞLU 205541007 (VERİLERİN GÖRSELLEŞTİRİLMESİ && VERİLERİN ARAŞTIRILMASI)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
